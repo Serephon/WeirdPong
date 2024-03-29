@@ -8,3 +8,13 @@ played with 2 players on the same keyboard.
 
 
 Made with raylib.
+
+# Controls and Mechanics
+
+-W and S keys to move the left racket up and down.
+
+-Up Arrow and Down Arrow keys to move the right racket up and down.
+
+-The board spins around while players move their rackets.
+
+-The game gets faster every time the ball hits either of the rackets.
